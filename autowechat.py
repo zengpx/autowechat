@@ -48,5 +48,5 @@ x,y=fingimg()
 send_name_to_search(x,y,'李伟豪')
 time.sleep(2)
 send_msg('i love python')
-
+# 你好
 
